@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=yogeesp&theme=algolia&rank_icon=percentile" />
 </a>
 <p align="right">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yogeesp&theme=algolia" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img height=200 src="https://streak-stats.demolab.com?user=yogeesp&theme=algolia" alt="GitHub Streak" /></a>
 </p>
 
 
